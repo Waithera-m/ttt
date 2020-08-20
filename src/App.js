@@ -12,7 +12,7 @@ function App() {
       </header>
       <div className="row">
         <div className="col-md-4"></div>
-        <div className="col-md-7">
+        <div className="col-md-7 col-sm-12">
           <Game />
         </div>
         <div className="col-md-1"></div>
